@@ -23,3 +23,10 @@ First, decide who goes first and what symbol or color each player will have.
 Players must alternate turns, and only one disc can be dropped in each turn. 
 On your turn, drop one of your colored discs from the top into any of the seven slots. 
 The game ends when there is a 4-in-a-row (horizontally , vertically or diagonally)
+
+Data Structures & Algorithms Used
+A 2-D char array has been used to build the game board which allows players to make a move.
+
+The Linear Search Algorithm is used to check for win diagonally, horizontally or diagonally.
+
+Stack Data Structure used to push & pop a move that has been made by a player.
