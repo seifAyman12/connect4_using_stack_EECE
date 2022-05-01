@@ -1,8 +1,8 @@
 # connect4_using_stack_EECE
 presented by:
 1-seif eldin Ayman abdelfatah mohamed __sec:2__BN:23
-2-ramy atef__sec:2__BN:
-3-zyad ahmed fawzy__sec:2__BN:
+2-ramy atef__sec:2__BN:9
+3-zyad ahmed fawzy__sec:2__BN:13
 
 
 our aim in this project is to try implementing the connect 4 game using the stack data structure and analyse our results and enhance our code by putting different test cases and check the time execution of our program. 
