@@ -555,6 +555,8 @@ void startGame() {
            scanf("%s", player_Choice); 
            }
            thePlayerChoice = atoi (player_Choice) ; 
+     if (thePlayerChoice > 4 || thePlayerChoice < 0 )
+           printf("\n not valid , please enter a number from 0 to 4 ");
 
       switch(thePlayerChoice) {
 
