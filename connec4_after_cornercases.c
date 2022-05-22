@@ -11,7 +11,6 @@
 #define BOARD_VERTICAL 6 // Vertical slots for the game board
 
 #define PLAYER_NAME_SIZE 128
-#define INPUT_SIZE 256
 
 #define TRUE 1
 #define FALSE 0
