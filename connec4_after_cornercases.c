@@ -89,10 +89,10 @@ void playGame(char gameBoard[][BOARD_HORIZONTAL]) { // Routine that starts the g
 
     if(strcmp(playerOneName,playerTwoName) == 0) { // If the players names are identical 
         printf("\n Sorry Player O , You Entered The Same Name of player X , Please change it ! ");
-        goto replay ; 
-    namesEntered = 1; } 
+        goto replay ; }
+    namesEntered = 1 ; 
     else 
-    namesEntered = 1;
+    namesEntered = -1 ;
 
         if(namesEntered == 1) { // If the name has been entered
     
