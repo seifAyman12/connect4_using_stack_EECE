@@ -5,10 +5,7 @@
 #include <assert.h>
 #include <ctype.h>
 #include <sys/types.h>
-// Author of Application: Sabin Constantin Lungu
-// Purpose of Application: To implement a Connect 4 Game using Data Structures and Algorithms.
-// Date of Last Modification: 27/02/2020
-// Any Bugs? None currently. Just warnings to be fixed.
+
 
 #define BOARD_HORIZONTAL 7
 #define BOARD_VERTICAL 6 // Vertical slots for the game board
