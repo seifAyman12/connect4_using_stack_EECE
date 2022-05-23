@@ -92,7 +92,7 @@ void playGame(char gameBoard[][BOARD_HORIZONTAL]) { // Routine that starts the g
         goto replay ; 
     namesEntered = 1 ; }
     else 
-    namesEntered = -1 ;
+    namesEntered = 1 ;
 
         if(namesEntered == 1) { // If the name has been entered
     
